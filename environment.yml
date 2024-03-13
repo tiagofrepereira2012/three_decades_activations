@@ -1,0 +1,9 @@
+name: three-decades
+channels:
+- conda-forge
+dependencies:
+- python==3.10
+- jupyterlab
+- matplotlib
+- tqdm
+- numpy
